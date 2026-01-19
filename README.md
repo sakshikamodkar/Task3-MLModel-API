@@ -158,5 +158,5 @@ It fulfills all requirements of **CODTECH Internship Task 3**.
 
 ## Author
 
-**Pranav Mali**\
+**Kamodkar Sakshi**\
 CODTECH Data Science Intern
